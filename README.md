@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **UIpath**
 
-- 💬 Ask me about **Automation, Data Structures and Algoritm**
+- 💬 Ask me about **Automation, Data Structures and Algoritms**
 
 - 📫 How to reach me **hm7087391@gmail.com**
 
