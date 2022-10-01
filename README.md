@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://st2.depositphotos.com/1802620/7621/v/950/depositphotos_76219969-stock-illustration-online-shopping-flat-concept.jpg">
 
 
-- 🔭 I’m currently working on **DATA SCRAP**
+- 🔭 I’m currently working on **DATA SCRAPING**
 
 - 🌱 I’m currently learning **UIpath**
 
