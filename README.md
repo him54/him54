@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **DATA SCRAPING**
 
-- 🌱 I’m currently learning **UIpath**
+- 🌱 I’m currently learning **UiPath**
 
 - 💬 Ask me about **Automation, Data Structures and Algoritms**
 
